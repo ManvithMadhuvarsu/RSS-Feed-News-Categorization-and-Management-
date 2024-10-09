@@ -1,4 +1,4 @@
-# RSS-Feed-News-Categorization-and-Management-
+# RSS-Feed-News-Categorization-and-Management
 This project implements an automated news article classification system that fetches articles from various RSS feeds and categorizes them using Natural Language Processing (NLP). Articles are stored in a MySQL database and classified into categories like:
 
 - **Terrorism / Protest / Political Unrest / Riot**
