@@ -28,6 +28,7 @@ This project implements an automated news article classification system that fet
 ```bash
 git clone https://github.com/ManvithMadhuvarsu/RSS-Feed-News-Categorization-and-Management-.git
 
+```
 
 2. Install the required Python libraries:
 
