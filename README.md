@@ -25,7 +25,30 @@ This project implements an automated news article classification system that fet
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/ManvithMadhuvarsu/RSS-Feed-News-Categorization-and-Management-.git
-   cd news-classification-nlp
+```bash
+git clone https://github.com/ManvithMadhuvarsu/RSS-Feed-News-Categorization-and-Management-.git
 
+
+2. Install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Set up your MySQL database:
+
+- Create a database named project.
+- Run the SQL commands to create the news_articles table as defined in models.py.
+- Update the database connection details in database.py if necessary.
+
+4. Usage
+Run the main application:
+
+```bash
+python main.py
+```
+
+The application will fetch articles from the specified RSS feeds, categorize them, and store them in the database.
+
+## Contribution
+Feel free to fork the repository, make changes, and submit pull requests. Any contributions are welcome!
