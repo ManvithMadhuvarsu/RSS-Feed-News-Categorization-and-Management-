@@ -26,6 +26,6 @@ This project implements an automated news article classification system that fet
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/news-classification-nlp.git
+   git clone https://github.com/ManvithMadhuvarsu/RSS-Feed-News-Categorization-and-Management-.git
    cd news-classification-nlp
 
